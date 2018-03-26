@@ -31,18 +31,20 @@ Lớp: INT3211 - 2018
 
 ## Hệ thống sổ liên lạc điện tử được tích hợp dựa trên 3 module nhỏ (open source) gồm:
 * Quản lý liên lạc
-* Quản lý trang tin tức
+* Quản lý trường học
 * Quản lý thanh toán
 
 ## 9 Dịch vụ sẽ tích hợp:
 
-- [ ] 1. 
-- [ ] 2.
-- [ ] 3.
-- [ ] 4.
-- [ ] 5.
-- [ ] 6.
-- [ ] 7.
+- quản lý tin nhắn
+- chat với một người
+- tạo nhóm chat
+
+- quản lý nhân viên
+- quản lý phụ huynh
+- quản lý học sinh
+
+- thanh toán điện tử
 - [ ] 8.
 - [ ] 9.
 

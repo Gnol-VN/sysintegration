@@ -45,8 +45,6 @@ Lớp: INT3211 - 2018
 - quản lý học sinh
 
 - thanh toán điện tử
-- [ ] 8.
-- [ ] 9.
 
 Ghi chú: 
 - [ ] Đánh dấu công việc cần làm 
